@@ -1,4 +1,4 @@
-# bbc-news
+# News
 
 This is my first full stack web app with php,mysql,html,css,js
 
